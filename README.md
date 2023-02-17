@@ -1,9 +1,9 @@
 # Bouc-Wen-class-model
 
 ## Overview
-This script provides a Bouc-Wen class model considering hysteresis mechanism of RC columns.<br/>
+This package is about the Bouc-Wen class model considering hysteresis mechanism of RC columns.<br/>
 `Example` folder contains one .m script and two .mat files.<br/>
-`BoucWen.m` implements the algorithm offered in the appendix of the reference.<br/>
+`BoucWen.m` returns the corresponding force vector provided with a displacement vector using the proposed Bouc-Wen class model. It implements the algorithm offered in the appendix of the reference.<br/>
 `demo.m` offers a demonstration for the model by comparing the experimental data and the model
 
 ## Developers
