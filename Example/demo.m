@@ -13,7 +13,7 @@ data = data.data_exp;
 disp  = data(:,1);
 force = data(:,2);
 
-%% load parameter for the hmBWBN model
+%% load parameter for the Bouc-Wen class model
 params = load('params.mat');
 params = params.params_est;
 
