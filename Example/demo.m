@@ -25,5 +25,5 @@ figure;
 plot(disp,force,'k-','linewidth',1.2); grid on; hold on;
 plot(disp,force_est,'r--','linewidth',1.2);
 xlabel('Displacement (m)'); ylabel('Lateral load (g)');
-legend('Experimental data','hmBWBN model','location','Southeast');
+legend('Experimental data','Bouc-Wen model','location','Southeast');
 set(gca,'fontname','Times New Roman','fontsize',13);
