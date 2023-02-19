@@ -19,7 +19,7 @@ pin_psi    :   Pinching parameter about the pinching magnitude
 pin_delpsi :   Pinching parameter about the pinching rate
 pin_lambda :   Pinching parameter about the pinching severity
 c_eps      :   Deterioration energy amplification factor
-c_pch      :   Crack closure coefficient
+c_h      :   Crack closure coefficient
 
 %}
 
